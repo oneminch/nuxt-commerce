@@ -3,3 +3,7 @@
 
 /* For components created in modules folder we need to add below line so that TW classes will work correctly */
 @source "../../../modules";
+
+@theme static {
+    --font-sans: 'Inter', sans-serif;
+}
